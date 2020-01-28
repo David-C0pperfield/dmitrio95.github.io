@@ -290,9 +290,7 @@ body {
 }
 
 div.contents {
-	margin-top: 10px;
-	margin-left: 12px;
-	margin-right: 8px;
+	margin: 10px 100px auto;
 }
 
 td.indexkey {
